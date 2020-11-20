@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+<!--    SignUp-->
+    <color name="_bg___1_sign_up_color">#f5f6f8</color>
+    <color name="text_color">#ff6969</color>
+    <color name="rectangle_4_color">#ff6969</color>
+    <color name="sign_up_color">#ffffff</color>
+    <color name="rectangle_2_color">#ffffff</color>
+    <color name="janedoe123_email_com_color">#515c6f</color>
+    <color name="ellipse_18_color">#727c8e</color>
+
+<!--    Home-->
+    <color name="_bg___4_home_color">#f5f6f8</color>
+    <color name="background_color">#000000</color>
+    <color name="bottom_nav_base_color">#ffffff</color>
+    <color name="home_color">#ff6969</color>
+    <color name="cart_color">#727c8e</color>
+    <color name="indicator_base_color">#ff6969</color>
+    <color name="_10_color">#ffffff</color>
+    <color name="apparel_color">#515c6f</color>
+
+<!--    Product-->
+    <color name="_bg___9_product_product_color">#f5f6f8</color>
+    <color name="ellipse_7_color">#727c8e</color>
+    <color name="base_color">#ffffff</color>
+    <color name="share_this_ek1_color">#727c8e</color>
+    <color name="base_ek1_color">#ff6969</color>
+    <color name="add_to_cart_ek1_color">#ffffff</color>
+    <color name="product_color">#ff6969</color>
+    <color name="pink_color">#ed5199</color>
+    <color name="orange_color">#ff8c69</color>
+    <color name="blue_color">#67b5f7</color>
+    <color name="grey_color">#c9c9c9</color>
+    <color name="black_color">#3e3a3a</color>
+    <color name="page_title_color">#515c6f</color>
+</resources>
+
+<!--<color name="base_ek1_color">#ff6969</color>  button bg color-->
+<!--<color name="_bg___4_home_color">#f5f6f8</color> layout bg color-->
+<!--<color name="apparel_color">#515c6f</color>  text color  -->
+<!--<color name="bottom_nav_base_color">#ffffff</color> bottom nav color-->
+<!--<color name="page_title_color">#515c6f</color> page title color-->
+<!--<color name="cart_color">#727c8e</color>   bottom nav icon color-->

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DesignAndroidAppTwo</string>
+
+    <!-- 1_sign_up strings -->
+
+    <string name="app_name_">1_Sign Up</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="text_string">By creating an account, you agree to our Terms of Service and Privacy Policy</string>
+    <string name="sign_up_string">SIGN UP</string>
+    <string name="janedoe123_email_com_string">janedoe123@email.com</string>
+    <string name="email_ek1_string">EMAIL</string>
+    <string name="janedoe12345_string">janedoe12345</string>
+    <string name="username_ek1_string">USERNAME</string>
+    <string name="__________________________string">************************</string>
+    <string name="password_ek1_string">PASSWORD</string>
+    <string name="page_title_string_1">Sign Up</string>
+    <string name="page_title_ek1_string_1">Log In</string>
+    <string name="page_title_ek2_string">Forgot Password</string>
+
+    <!-- 4_home strings -->
+
+    <string name="home_string">Home</string>
+    <string name="cart_string">Cart</string>
+    <string name="profile_string">Profile</string>
+    <string name="more_string">More</string>
+    <string name="search_string">Search</string>
+    <string name="_10_string">10</string>
+    <string name="_5_string">5</string>
+    <string name="apparel_string">Apparel</string>
+    <string name="beauty_string">Beauty</string>
+    <string name="shoes_string">Shoes</string>
+    <string name="see_all_string">See All</string>
+    <string name="page_title_string_2">Categories</string>
+    <string name="see_more_string">SEE MORE</string>
+    <string name="for_all_your__summer_clothing__needs_string">For all your \
+summer clothing \
+needs</string>
+    <string name="page_title_ek1_string_2">Latest</string>
+    <string name="ankle_boots_ek1_string">Ankle Boots</string>
+    <string name="__49_99_string">$49.99</string>
+    <string name="backpack_ek1_string">Backpack</string>
+    <string name="__20_58_string">$20.58</string>
+    <string name="red_scarf_ek1_string">Red Scarf</string>
+    <string name="__11_00_string">$11.00</string>
+
+    <!-- 9_product_product strings -->
+    <string name="share_this_ek1_string">SHARE THIS</string>
+    <string name="add_to_cart_ek1_string">ADD TO CART</string>
+    <string name="product_string">Product</string>
+    <string name="details_string">Details</string>
+    <string name="reviews_string">Reviews</string>
+    <string name="page_title_string">SELECT COLOR</string>
+    <string name="_4_5_string">4.5</string>
+    <string name="_5_0_string">5.0</string>
+    <string name="_6_5_string">6.5</string>
+    <string name="_7_0_string">7.0</string>
+    <string name="_8_0_string">8.0</string>
+    <string name="page_title_ek1_string">SELECT SIZE (US)</string>
+    <string name="_7_ek1_string">7</string>
+    <string name="faux_sued_ankle_boots_string">Faux Sued Ankle Boots</string>
+    <string name="_4_9_string">4.9</string>
+</resources>
